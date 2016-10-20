@@ -93,7 +93,6 @@ public class RootLayoutController {
             mainApp.savePersonDataToFile(file);
         }
     }
-
     /**
      * Opens an about dialog.
      */
