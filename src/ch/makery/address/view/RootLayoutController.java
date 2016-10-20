@@ -12,7 +12,7 @@ import ch.makery.address.MainApp;
  * elements can be placed.
  * 
  * @author Marco Jakob
- */
+ */ 
 public class RootLayoutController {
 
     // Reference to the main application

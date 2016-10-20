@@ -90,7 +90,7 @@ public class Person {
     public void setPostalCode(int postalCode) {
         this.postalCode.set(postalCode);
     }
-
+ 
     public IntegerProperty postalCodeProperty() {
         return postalCode;
     }

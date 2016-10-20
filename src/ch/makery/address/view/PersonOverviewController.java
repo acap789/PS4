@@ -126,7 +126,7 @@ public class PersonOverviewController {
         if (okClicked) {
             mainApp.getPersonData().add(tempPerson);
         }
-    }
+    } 
 
     /**
      * Called when the user clicks the edit button. Opens a dialog to edit

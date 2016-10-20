@@ -272,7 +272,7 @@ public class MainApp extends Application {
                 alert.setContentText("Could not save data to file:\n" + file.getPath());
 
                 alert.showAndWait();
-            }
+            } 
         }
     }
     

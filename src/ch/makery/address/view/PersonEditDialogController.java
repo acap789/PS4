@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 import ch.makery.address.model.Person;
 import ch.makery.address.util.DateUtil;
 
-/**
+/** 
  * Dialog to edit details of a person.
  * 
  * @author Marco Jakob

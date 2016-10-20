@@ -17,7 +17,7 @@ public class DateUtil {
     /** The date formatter. */
     private static final DateTimeFormatter DATE_FORMATTER = 
             DateTimeFormatter.ofPattern(DATE_PATTERN);
-
+ 
     /**
      * Returns the given date as a well formatted String. The above defined 
      * {@link DateUtil#DATE_PATTERN} is used.

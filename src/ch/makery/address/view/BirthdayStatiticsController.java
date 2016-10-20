@@ -38,7 +38,7 @@ public class BirthdayStatisticsController {
         String[] months = DateFormatSymbols.getInstance(Locale.ENGLISH).getMonths();
         // Convert it to a list and add it to our ObservableList of months.
         monthNames.addAll(Arrays.asList(months));
-
+ 
         // Assign the month names as categories for the horizontal axis.
         xAxis.setCategories(monthNames);
     }
